@@ -5,7 +5,8 @@ COmandi Disponibili:
 /ping <player>
 
 ![image](https://github.com/user-attachments/assets/23fb6cea-ec8c-445f-85cb-f53124950898)
-![image](https://github.com/user-attachments/assets/fd0ccb5d-e399-431a-b6c2-48720fa21962)
+![image](https://github.com/user-attachments/assets/6f3504c2-963b-49ba-b936-c7c94f2f5e42)
+
 
 /everping <help:reload>
 
