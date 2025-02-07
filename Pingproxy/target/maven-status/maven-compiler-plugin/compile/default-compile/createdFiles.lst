@@ -1,6 +1,0 @@
-org\example\Main.class
-com\example\everpingproxy\EverPingProxy$EverPingCommand.class
-com\example\everpingproxy\EverPingProxy$PingCommand.class
-velocity-plugin.json
-com\example\everpingproxy\EverPingProxy.class
-com\example\everpingproxy\EverPingProxy$DisconnectListener.class
