@@ -1,6 +1,6 @@
 # EVERPING FOR EVERCRAFT
 
-COmandi Disponibili:
+Comandi Disponibili:
 
 /ping <player>
 
