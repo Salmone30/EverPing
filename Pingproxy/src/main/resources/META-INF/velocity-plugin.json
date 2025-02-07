@@ -1,0 +1,7 @@
+{
+  "id": "everpingproxy",
+  "version": "1.0",
+  "name": "EverPingProxy",
+  "description": "Plugin per la gestione del ping",
+  "authors": ["Salmone"]
+}
